@@ -28,11 +28,6 @@ const App = () => {
       <LazyShow>
         <>
           <About />
-          <Canvas />
-        </>
-      </LazyShow>
-      <LazyShow>
-        <>
           <Features />
           <Canvas />
         </>
